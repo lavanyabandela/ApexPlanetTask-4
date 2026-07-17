@@ -1,15 +1,17 @@
-# ApexPlanetTask-4
-**Data Storytelling & Statistical Validation**
+**# ApexPlanetTask-4**
+****Data Storytelling & Statistical Validation****
 
 This project was completed as part of the ApexPlanet Data Analytics Internship.
 
 
-**Project Objective**
+****Project Objective****
+
 To analyze the Sample Superstore dataset, generate business insights, perform hypothesis testing, and present findings through data storytelling.
 
 
 
-**Tasks Performed**
+****Tasks Performed****
+
 Data Cleaning and Preparation
 
 Exploratory Data Analysis (EDA)
@@ -21,7 +23,8 @@ Hypothesis Testing using Independent Samples T-Test
 Business Recommendations and Impact Analysis
 
 
-**Tools Used**
+****Tools Used****
+
 Python
 
 Pandas
@@ -35,7 +38,10 @@ Google Colab
 PowerPoint
 
 
-**Files Included**
+****Files Included****
+
 ApexPlanet_Task4.ipynb
+
 Final_Presentation.pptx
+
 README.md
